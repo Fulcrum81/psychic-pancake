@@ -5,6 +5,5 @@ public class Main {
 
     public void urgentTest() {
         System.out.println("I am an urgent test");
-        System.out.println("This test is finished");
     }
 }
